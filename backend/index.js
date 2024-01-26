@@ -1,1 +1,3 @@
-<document className="getElementBy"></document>
+const connectTomongo = require('./db');
+
+connectTomongo();
